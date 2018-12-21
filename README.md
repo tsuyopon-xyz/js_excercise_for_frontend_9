@@ -31,6 +31,6 @@
 
 
 - Web白熱教室
-  - [JavaScriptのasyncとawaitの概要【Promiseの発展系】](https://tsuyopon.xyz/learning-contents/web-dev/javascript/frontend/how-to-use-the-fetch-api-in-js/)
+  - [JavaScriptのasyncとawaitの概要【Promiseの発展系】](https://tsuyopon.xyz/learning-contents/web-dev/javascript/frontend/overview-of-async-and-await-in-js/)
   - [【JavaScript】asyncとawaitの使い方【サンプルコード付き】](https://tsuyopon.xyz/learning-contents/web-dev/javascript/frontend/how-to-use-async-and-await-in-js/)
   - [【JavaScript】async/awaitでの例外処理の方法](https://tsuyopon.xyz/learning-contents/web-dev/javascript/frontend/how-to-handle-exception-in-async-await/)
