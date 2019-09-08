@@ -80,6 +80,12 @@
   // - 戻り値
   //   - 無し
 
+  const removeAllAnswers = () => {
+    while (answers.firstChild) {
+      answers.removeChild(answers.firstChild);
+    }
+  };
+
   // makeQuiz関数を実装する
   // - 実現したいこと
   //   - クイズデータを元にWebページ上に問題と解答リストを表示する
