@@ -22,6 +22,11 @@
 
   // HTMLのid値がセットされているDOMを取得する
 
+  const question = document.getElementById('question');
+  const answers = document.getElementById('answers');
+  const result = document.getElementById('result');
+  const restartButton = document.getElementById('restart-button');
+  
   // ページの読み込みが完了したらクイズ情報を取得する
 
   // 「Restart」ボタンをクリックしたら再度クイズデータを取得する
