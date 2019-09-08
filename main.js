@@ -14,6 +14,12 @@
   //   - currentIndex : 現在何問目のクイズに取り組んでいるのかをインデックス番号で保持する
   //   - numberOfCorrects : 正答数を保持するう
 
+  const gameState = {
+    quizzes: [],
+    currentIndex: 0,
+    numberOfCorrects: 0
+  };
+
   // HTMLのid値がセットされているDOMを取得する
 
   // ページの読み込みが完了したらクイズ情報を取得する
